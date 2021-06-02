@@ -1,11 +1,11 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:q-bio.BM OR cat:q-bio.CB OR cat:q-bio.GN'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        virus: 5
+        chromatin: 3
+        CRISPR: 3
 
 # 通知の閾値
 score_threshold: 0
