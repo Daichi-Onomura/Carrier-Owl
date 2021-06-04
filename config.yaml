@@ -7,6 +7,7 @@ keywords:
         enhancer: 4
         chromatin: 3
         CRISPR: 3
+        cell: 2
 
 # 通知の閾値
 score_threshold: 0
