@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:q-bio.BM OR cat:q-bio.CB OR cat:q-bio.GN'
+subject: 'cat:q-bio.BM OR cat:q-bio.CB OR cat:q-bio.GN OR cat:physics.bio-ph'
 
 # 検索キーワード
 keywords:
